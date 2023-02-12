@@ -1,0 +1,22 @@
+{
+	"name": "af-tsconfig",
+	"version": "1.0.0",
+	"author": "alexandre-fernandez",
+	"description": "TypeScript configuration.",
+	"license": "MIT",
+	"main": "tsconfig.json",
+	"keywords": [
+		"typescript",
+		"configuration"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alexandre-fernandez/af-tsconfig"
+	},
+	"contributors": [
+		{
+			"name": "Alexandre Fernandez",
+			"url": "https://github.com/alexandre-fernandez"
+		}
+	]
+}
