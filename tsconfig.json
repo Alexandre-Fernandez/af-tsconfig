@@ -18,6 +18,8 @@
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
 		"importsNotUsedAsValues": "error",
-		"checkJs": true
+		"checkJs": true,
+		"resolveJsonModule": true,
+		"isolatedModules": true
 	}
 }
