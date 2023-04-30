@@ -1,6 +1,6 @@
 {
 	"name": "af-tsconfig",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "alexandre-fernandez",
 	"description": "TypeScript configuration.",
 	"license": "MIT",
