@@ -17,7 +17,7 @@
 		"noImplicitReturns": true,
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
-		"importsNotUsedAsValues": "error",
+		"verbatimModuleSyntax": true,
 		"checkJs": true,
 		"resolveJsonModule": true,
 		"isolatedModules": true
